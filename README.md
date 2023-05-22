@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <!--   <img src="https://cdn0.iconfinder.com/data/icons/fillicons-information-technology/1550/hello_world_code_web-256.png"/> -->
-  <img src="https://cdn0.iconfinder.com/data/icons/fillicons-information-technology/1550/hello_world_code_web-256.png" />
+  <img width="100px" src="https://cdn0.iconfinder.com/data/icons/fillicons-information-technology/1550/hello_world_code_web-256.png" />
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepchhatralia&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
