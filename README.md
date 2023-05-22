@@ -21,13 +21,16 @@ Here are some ideas to get you started:
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepchhatralia&count_private=true&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- &layout=compact
   &layout=donut
  &layout=compact-vertical
 &layout=pie
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepchhatralia&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepchhatralia&size_weight=0.5&count_weight=0.5&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
 
