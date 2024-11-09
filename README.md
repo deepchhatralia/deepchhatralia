@@ -1,18 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepchhatralia&label=Profile%20views&color=0e75b6&style=flat" alt="deepchhatralia" /> </p>
-<h1 align="center">Hi 👋, I'm Deep Chhatralia</h1>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepchhatralia" alt="deepchhatralia" /></a> </p>
+<hr />
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> 
-
-<a href="https://instagram.com/deep_chhatralia">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-<a href="https://linkedin.com/in/deep-chhatralia-077994176">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<p align="left">
+<a href="https://linkedin.com/in/deep-chhatralia-077994176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep-chhatralia-077994176" height="30" width="40" /></a>
+<a href="https://instagram.com/deep_chhatralia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deep_chhatralia" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/deepchhatralia">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode" />
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/leetcode.svg/" />
@@ -26,7 +19,7 @@
 <p align="left"> 
 
 
-![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,bootstrap,jquery,react,nodejs,mysql,mongodb&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=java,python,bootstrap,js,jquery,react,nodejs,mysql,mongodb,postgres&theme=dark)
 
 </p>
 
