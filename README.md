@@ -30,7 +30,7 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepchhatralia&show_icons=true&locale=en&layout=compact" alt="deepchhatralia" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepchhatralia&show_icons=true&layout=compact" alt="deepchhatralia" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepchhatralia&show_icons=true&locale=en&count_private=true" alt="deepchhatralia" /></p>
 
