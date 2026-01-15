@@ -27,6 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://readme-stats-fast.vercel.app/api?username=deepchhatralia&show_icons=true&locale=en&count_private=true" alt="deepchhatralia" /></p>
 
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepchhatralia" alt="deepchhatralia" /></span>
+<!-- <span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepchhatralia" alt="deepchhatralia" /></span> -->
 
 <span>![Harlok's wakatime stats](https://readme-stats-fast.vercel.app/api/wakatime?username=deepchhatralia)</span>
