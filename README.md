@@ -14,14 +14,14 @@
 <!--     <a href="https://linkedin.com/in/deep-chhatralia-077994176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep-chhatralia-077994176" height="30" width="40" /></a> <a href="https://instagram.com/deep_chhatralia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deep_chhatralia" height="30" width="40" /></a> <a href="https://www.leetcode.com/deepchhatralia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepchhatralia" height="30" width="40" /></a> -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
 
 
 ![My Skills](https://skillicons.dev/icons?i=java,python,bootstrap,js,jquery,react,nodejs,mysql,mongodb,postgres&theme=dark)
 
-</p>
+</p> -->
 
 <p><img align="left" src="https://readme-stats-fast.vercel.app/api/top-langs?username=deepchhatralia&show_icons=true&layout=compact" alt="deepchhatralia" /></p>
 
