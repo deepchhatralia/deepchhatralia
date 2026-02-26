@@ -6,6 +6,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/deep-chhatralia-077994176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep-chhatralia-077994176" height="30" width="40" /></a>
 <a href="https://instagram.com/deep_chhatralia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deep_chhatralia" height="30" width="40" /></a>
+    
 <!-- <a href="https://www.leetcode.com/deepchhatralia">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode" />
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v9/icons/leetcode.svg/" />
@@ -23,7 +24,8 @@
 
 </p> -->
 
-<p><img align="left" src="https://readme-stats-fast.vercel.app/api/top-langs?username=deepchhatralia&show_icons=true&layout=compact" alt="deepchhatralia" /></p>
+<p><img align="left" src="https://github-readme-stats-fast.vercel.app/api/streak?username=deepchhatralia&theme=nord" alt="deepchhatralia" /></p>
+<!-- <p><img align="left" src="https://readme-stats-fast.vercel.app/api/top-langs?username=deepchhatralia&show_icons=true&layout=compact" alt="deepchhatralia" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://readme-stats-fast.vercel.app/api?username=deepchhatralia&show_icons=true&locale=en&count_private=true" alt="deepchhatralia" /></p>
 
